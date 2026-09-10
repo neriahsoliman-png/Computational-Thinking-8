@@ -1,0 +1,7 @@
+print("Hi my name is Neriah")
+print("I love playing soccer")
+print("I also love spiderman")
+print("My freind ellie is in this class but she is a lazy potato")
+print("Now tell me about you")
+potato = input ("What's your name?")
+print(f"Hi {potato}, nice to meet you")
