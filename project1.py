@@ -1,0 +1,11 @@
+print("Hello I am ur chatbot my name is DOUGHNUT LORD")
+print("What is ur name?")
+name = input("")
+print(f"hello {name}") 
+print("Before we start can i call u potato?")
+potato = input ("")
+print("idk ur potato from now on")
+print("So what brings u to ur SUPER SONIC CHATBOT?")
+answer = input("")
+if answer == f"{answer}":
+print("Would u like me to make personilized list of things u can do or would u js like to talk")
