@@ -20,3 +20,11 @@ elif answer1 == "Andrew garfeild":
     else:
         print("Answer only Yes or No.")
 
+elif answer1 == "tobey mcguire" :
+    answer4 = input (" Would you like to have venom be a friend insted of an enemy")
+    if answer4 == "yes":
+        print ("YAY venom is so cool")
+    elif answer4 == "No":
+        print(" that a valid choice")
+    else:
+        (" Answer yes or no only")
