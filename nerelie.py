@@ -30,9 +30,9 @@ elif answer1 == "tobey mcguire" :
         (" Answer yes or no only") 
 
     
-elif answer1= "milas morales":
+elif answer1 == "milas morales":
     answer5 = input(" would you like to bring back uncle aaron, other peter parker, or not become spiderman")
-    if answer4 == "uncle aaron":
+    if answer5 == "uncle aaron":
         print("GIRLLLL HES BADDD WHY WOULD YOU DO THATTTT")
     elif answer5 == "peter parker":
         print("That means that you cant be spiderman")
