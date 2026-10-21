@@ -27,7 +27,7 @@ elif answer2 == "beans":
 if answer2 == "Herbs" or "Spices":
     print ("            ")
 print("Nice!")
-print(" \t  ")
+print(" \t ")
 print ("ok next question")
 print ("                                ")
 answer3 = input ("Do you like the smell of vanilla, pumkin, or dryer sheets?\n")
