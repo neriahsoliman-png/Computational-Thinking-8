@@ -1,7 +1,7 @@
 place = input("Hello welocme to the spiderverse u have been chosen to be part of the interdimmentional spider society!*")
-answer1 = input ("Before we start what SPIDERMAN wold u like to be.")
+answer1 = input ("Before we start what SPIDERMAN wold u like to be. Tom holland, Andrew garfeild,Tobey mcquire, or milas morales ")
 
-if answer1 == "Tom holland":
+if answer1 == "Tom holland" or answer1 =="tom holland":
     answer2 = input ("Do u want TONY as ur mentor?")
     if answer2 == "Yes" or answer2 == "yes":
         print("Yayayyaay let's revive him!")
@@ -11,18 +11,18 @@ if answer1 == "Tom holland":
     else:
         print("answer Yes or No pls.")
 
-elif answer1 == "Andrew garfeild":
+elif answer1 == "Andrew garfeild" or answer1 == "andrew garfeild":
     answer3 = input("Do u want to revive Gwen?")
-    if answer3 == "Yes":
+    if answer3 == "Yes" or answer3 == "yes":
         print("ok let's revive her")
     elif answer3 == "No":
         print("You've just been electrcuted by electro GAME OVER...")
     else:
         print("Answer only Yes or No.")
 
-elif answer1 == "tobey mcguire" :
+elif answer1 == "tobey mcguire" or answer1 =="Tobey mcguire" :
     answer4 = input (" Would you like to have venom be a friend insted of an enemy")
-    if answer4 == "yes":
+    if answer4 == "yes" or answer4 == "Yes":
         print ("YAY venom is so cool")
     elif answer4 == "No":
         print(" that a valid choice")
@@ -30,7 +30,7 @@ elif answer1 == "tobey mcguire" :
         (" Answer yes or no only") 
 
     
-elif answer1 == "milas morales":
+elif answer1 == "milas morales" or answer1 == "Milas morales":
     answer5 = input(" would you like to bring back uncle aaron, other peter parker, or not become spiderman")
     if answer5 == "uncle aaron":
         print("GIRLLLL HES BADDD WHY WOULD YOU DO THATTTT")
