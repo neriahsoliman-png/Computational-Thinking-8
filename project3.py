@@ -16,7 +16,7 @@ elif answer1 == "hot":
     coffee_points +=1
 if answer1 == "iced" or "Iced":
         print("nice answers let's keep going!\n")
-if answer1 == "Hot" or "hot":
+if answer1 == "Hot" or answer1 =="hot":
     print ("NICE answers!!!")
 #Question 2
 answer2 = input ("Do you like herbs, spices or beans?\n") 
@@ -26,7 +26,7 @@ elif answer2 == "herbs":
     matcha_points +=2
 elif answer2 == "beans":
     coffee_points +=2
-if answer2 == "Herbs" or "Spices":
+if answer2 == "Herbs" or answer2 =="Spices":
     print ("            ")
 print("Nice!")
 print(" \t ")
@@ -40,7 +40,7 @@ elif answer3 == "pumkin":
     chai_points +=1
 elif answer3 == "dryer sheets":
     coffee_points +=1
-if answer3 == "Vanilla" or "vanilla":
+if answer3 == "Vanilla" or answer3 =="vanilla":
     print ("\nGood job let's keep going!\n")
 if answer3 == "Pumkin" or "pumkin":
     print ("\n Great job let's keep going!\n")
