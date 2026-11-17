@@ -50,7 +50,7 @@ if answer3 == "Dryer Sheets" or "dryer sheets":
 answer4 = input ("do you like slick back, loose curls, or half up half down with claw clip?\n")
 if answer4 == "slick back":
     if matcha_points > chai_points and matcha_points > coffee_points:
-    print ("You are like matcha!")
+        print ("You are like matcha!")
 if chai_points > coffee_points and chai_points > matcha_points:
     print("You are a chai person!") 
 if coffee_points > matcha_points and chai_points > matcha_points:
